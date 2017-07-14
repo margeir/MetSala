@@ -1,0 +1,13 @@
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2005\Projects\Askrift\Askrift\obj\Debug\Askrift.exe
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2005\Projects\Askrift\Askrift\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2005\Projects\Askrift\Askrift\obj\Debug\Askrift.Form2.resources
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2005\Projects\Askrift\Askrift\obj\Debug\Askrift.Properties.Resources.resources
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2005\Projects\Askrift\Askrift\obj\Debug\Askrift.csproj.GenerateResource.Cache
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2005\Projects\Askrift\Askrift\bin\Debug\Askrift.exe
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2005\Projects\Askrift\Askrift\bin\Debug\Askrift.pdb
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2005\Projects\Askrift\Askrift\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2005\Projects\Askrift\Askrift\obj\Debug\Askrift.pdb
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2005\Projects\Askrift\Askrift\obj\Debug\Askrift.Form1.resources
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2005\Projects\Askrift\Askrift\bin\Debug\Askrift.exe.config
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2005\Projects\Askrift\Askrift\obj\Debug\Askrift.Form3.resources
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2005\Projects\Askrift\Askrift\obj\Debug\Askrift.Form4.resources

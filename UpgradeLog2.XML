@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Askrift">
+</Property><Property Name="Solution File" Value="C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Askrift.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Askrift.suo">
+</Property><Property Name="Date" Value="16. janúar 2011">
+</Property><Property Name="Time" Value="18:23">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Askrift.sln" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Askrift.suo" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift.suo">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\Askrift.csproj" Description="Project file successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\Askrift.csproj">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\Askrift.csproj.user" Description="Project user file successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\Askrift.csproj.user">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\endurp.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\endurp.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\endurp.Designer.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\endurp.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\g_peningar.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\g_peningar.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\Form1.Designer.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\innskraning.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\innskraning.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\innskraning.Designer.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\innskraning.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\hr_dags.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\hr_dags.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\hr_dags.Designer.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\hr_dags.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\lenalisti.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\lenalisti.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\lenalisti.Designer.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\lenalisti.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\PrentaR.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\PrentaR.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\samningar.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\samningar.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\samningar.Designer.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\samningar.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\vidskm.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\vidskm.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\vidskm.Designer.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\vidskm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\reikningar.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\reikningar.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\reikningar.Designer.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\reikningar.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\vorur.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\vorur.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\vorur.Designer.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\vorur.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\MetSala.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\MetSala.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\MetSala.Designer.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\MetSala.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\Program.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\Program.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\Settings1.Designer.cs" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\Settings1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\app.config" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\app.config">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\Settings1.settings" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\Settings1.settings">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\bin\Debug\logo.jpg" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\bin\Debug\logo.jpg">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\bin\Debug\logo.png" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\bin\Debug\logo.png">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\endurp.resx" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\endurp.resx">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\g_peningar.resx" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\g_peningar.resx">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\lenalisti.resx" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\lenalisti.resx">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\samningar.resx" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\samningar.resx">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\vidskm.resx" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\vidskm.resx">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\reikningar.resx" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\reikningar.resx">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\vorur.resx" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\vorur.resx">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\innskraning.resx" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\innskraning.resx">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\hr_dags.resx" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\hr_dags.resx">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\MetSala.resx" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\MetSala.resx">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Margeir\Documents\Visual Studio 2010\Projects\Askrift\Backup\Askrift\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\Askrift.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Askrift" Source="Askrift\Askrift.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Askrift.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Askrift.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Askrift" Source="Askrift\Askrift.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

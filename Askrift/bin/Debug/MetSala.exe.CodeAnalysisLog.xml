@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 14.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="14.0">
+ <Targets>
+  <Target Name="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift\bin\Debug\MetSala.exe">
+   <Modules>
+    <Module Name="metsala.exe">
+     <Namespaces>
+      <Namespace Name="Askrift">
+       <Types>
+        <Type Name="endurp" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#button2_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-01-27 18:30:38Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift" File="endurp.cs" Line="275">The query string passed to 'SqlCommand.CommandText.set(string)' in 'endurp.button2_Click(object, EventArgs)' could contain the following variables 'this.comboBox2.Text'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#comboBox1_SelectedIndexChanged(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-01-27 18:30:38Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift" File="endurp.cs" Line="54">The query string passed to 'SqlCommand.CommandText.set(string)' in 'endurp.comboBox1_SelectedIndexChanged(object, EventArgs)' could contain the following variables 'new string[7][1]', 'new string[7][3]', 'new string[7][5]'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#skrifa(System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-01-27 18:30:38Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift" File="endurp.cs" Line="314">The query string passed to 'SqlCommand.CommandText.set(string)' in 'endurp.skrifa(int)' could contain the following variables 'num', 'Local12.ToString("yyyy:MM:dd")', 'this.vidsknr[this.comboBox1.SelectedIndex]', 'Local12.ToString("yyyy:MM:dd")', 'sqltsamtals', 'sqltafsl', 'Math.Round(sqlt1vsk)', 'Math.Round(sqlt2vsk)', 'this.rhaus1.Text', 'this.nr_sm', 'this.comboBox2.Text'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift" File="endurp.cs" Line="328">The query string passed to 'SqlCommand.CommandText.set(string)' in 'endurp.skrifa(int)' could contain the following variables 'num', 'this.dataGridView1[1, i].Value', 'this.dataGridView1[0, i].Value', '!lverd', '!sl_verd', '!Math.Round(this.l_vsk[i])', 'this.lina_vskf[i]'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="innskraning" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#adgerd()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-01-27 18:30:38Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift" File="innskraning.cs" Line="49">The query string passed to 'SqlCommand.CommandText.set(string)' in 'innskraning.adgerd()' could contain the following variables 'this.textnotendan.Text'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="KrofuSkra" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001" Status="Active" Created="2016-01-27 18:30:38Z" FixCategory="DependsOnFix">
+           <Issue Name="DependsOnFix" Certainty="95" Level="CriticalError">Implement IDisposable on 'KrofuSkra' because it creates members of the following IDisposable types: 'SqlConnection'. If 'KrofuSkra' has previously shipped, adding new members that implement IDisposable to this type is considered a breaking change to existing consumers.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="lenalisti" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#button1_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-01-27 18:30:38Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift" File="lenalisti.cs" Line="50">The query string passed to 'SqlCommand.CommandText.set(string)' in 'lenalisti.button1_Click(object, EventArgs)' could contain the following variables 'new object[9][1]', 'this.textBox1.Text', 'Convert.ToDouble(this.textBox2.Text)', 'this.textBox3.Text'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="PrentaR" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001" Status="Active" Created="2016-01-27 18:30:38Z" FixCategory="DependsOnFix">
+           <Issue Name="DependsOnFix" Certainty="95" Level="CriticalError">Implement IDisposable on 'PrentaR' because it creates members of the following IDisposable types: 'PrintDocument', 'PrintDialog', 'Font', 'SqlConnection'. If 'PrentaR' has previously shipped, adding new members that implement IDisposable to this type is considered a breaking change to existing consumers.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#prentaHreyfingar(System.String,System.String,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-01-27 18:30:38Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift" File="PrentaR.cs" Line="431">The query string passed to 'SqlCommand.CommandText.set(string)' in 'PrentaR.prentaHreyfingar(string, string, string)' could contain the following variables 'kt'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#printHreyfingarV(System.Object,System.Drawing.Printing.PrintPageEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-01-27 18:30:38Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift" File="PrentaR.cs" Line="666">The query string passed to 'SqlCommand.CommandText.set(string)' in 'PrentaR.printHreyfingarV(object, PrintPageEventArgs)' could contain the following variables 'this.vidskm[this.sida]', 'this.dags1', 'this.dags2'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="reikningar" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#.ctor(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-01-27 18:30:38Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift" File="reikningar.cs" Line="65">The query string passed to 'SqlCommand.CommandText.set(string)' in 'reikningar.reikningar(string)' could contain the following variables 'vidskm'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#comboBox1_SelectedIndexChanged(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-01-27 18:30:38Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift" File="reikningar.cs" Line="248">The query string passed to 'SqlCommand.CommandText.set(string)' in 'reikningar.comboBox1_SelectedIndexChanged(object, EventArgs)' could contain the following variables 'this.comboBox2.Text'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift" File="reikningar.cs" Line="260">The query string passed to 'SqlCommand.CommandText.set(string)' in 'reikningar.comboBox1_SelectedIndexChanged(object, EventArgs)' could contain the following variables 'this.comboBox2.Text'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#set_askrift_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-01-27 18:30:38Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift" File="reikningar.cs" Line="471">The query string passed to 'SqlCommand.CommandText.set(string)' in 'reikningar.set_askrift_Click(object, EventArgs)' could contain the following variables 'this.comboBox2.SelectedItem'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift" File="reikningar.cs" Line="493">The query string passed to 'SqlCommand.CommandText.set(string)' in 'reikningar.set_askrift_Click(object, EventArgs)' could contain the following variables 'this.comboBox2.SelectedItem'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="samningar" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#button1_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-01-27 18:30:38Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift" File="samningar.cs" Line="330">The query string passed to 'SqlCommand.CommandText.set(string)' in 'samningar.button1_Click(object, EventArgs)' could contain the following variables 'this.comboBox2.Text'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#comboBox1_SelectedIndexChanged(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-01-27 18:30:38Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift" File="samningar.cs" Line="103">The query string passed to 'SqlCommand.CommandText.set(string)' in 'samningar.comboBox1_SelectedIndexChanged(object, EventArgs)' could contain the following variables 'this.comboBox2.Text'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#dataGridView1_CellContentClick(System.Object,System.Windows.Forms.KeyEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-01-27 18:30:38Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift" File="samningar.cs" Line="484">The query string passed to 'SqlCommand.CommandText.set(string)' in 'samningar.dataGridView1_CellContentClick(object, KeyEventArgs)' could contain the following variables 'Local31.ToString("yyyy:MM:dd")', 'Convert.ToDouble(this.tsamtals.Text)', 'Convert.ToDouble(this.textafsl.Text)', 'Math.Round(vsk1)', 'Math.Round(vsk2)', 'this.rhaus1.Text', 'this.vnum'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift" File="samningar.cs" Line="479">The query string passed to 'SqlCommand.CommandText.set(string)' in 'samningar.dataGridView1_CellContentClick(object, KeyEventArgs)' could contain the following variables 'this.vnum', 'this.dataGridView1[1, i].Value', 'this.dataGridView1[0, i].Value', 'lverd', 'Math.Round(sl_verd)', 'Math.Round(tlvsk)', 'this.lina_vskf[i]'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#skrifa(System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-01-27 18:30:38Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift" File="samningar.cs" Line="285">The query string passed to 'SqlCommand.CommandText.set(string)' in 'samningar.skrifa(int)' could contain the following variables 'num', 'Local7.ToString("yyyy:MM:dd")', 'this.comboBox2.Text', 'Local7.ToString("yyyy:MM:dd")', 'this.rsamt', 'this.rafsl', 'this.r1vsk', 'this.r2vsk', 'this.nr_sm', 'this.rhaus1.Text'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift" File="samningar.cs" Line="300">The query string passed to 'SqlCommand.CommandText.set(string)' in 'samningar.skrifa(int)' could contain the following variables 'num', 'this.dataGridView1[1, i].Value', 'this.dataGridView1[0, i].Value', 'tlqty', 'lverd', 'sl_verd', 'this.lina_vskp[i]', 'tlafsl', 'this.lina_vskf[i]'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="vorur" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#dataGridView1_CellContentClick(System.Object,System.Windows.Forms.KeyEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-01-27 18:30:38Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\margeir.reynisson\Documents\Visual Studio 2010\Projects\Margeir\MetSala\Askrift" File="vorur.cs" Line="59">The query string passed to 'SqlCommand.CommandText.set(string)' in 'vorur.dataGridView1_CellContentClick(object, KeyEventArgs)' could contain the following variables 'this.dataGridView1.CurrentRow.Cells[3].Value'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="MetSala.Properties">
+       <Types>
+        <Type Name="Resources" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#.ctor()" Kind="Method" Static="False" Accessibility="Assembly" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811" Status="ExcludedInSource" Created="2016-01-27 18:30:38Z" FixCategory="NonBreaking" LastSeen="0001-01-01 00:00:00Z" />
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811">
+   <Name>Avoid uncalled private code</Name>
+   <Description>There is uncalled code that is not externally visible and is not a known runtime entry point. If this violation fires in error, please send a problem report to the Visual Studio Code Analysis team.</Description>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182264.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="14.0.0.0" />
+  </Rule>
+  <Rule TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100">
+   <Name>Review SQL queries for security vulnerabilities</Name>
+   <Description>A SQL command string built from user input is vulnerable to SQL injection attacks. Microsoft SQL Server and other database servers support stored procedures and parameterized SQL queries, which reduce the risk of injection attacks.</Description>
+   <Resolution Name="WithNonLiterals">The query string passed to {0} in {1} could contain the following variables {2}. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182310.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="14.0.0.0" />
+  </Rule>
+  <Rule TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001">
+   <Name>Types that own disposable fields should be disposable</Name>
+   <Description>Types that declare disposable members should also implement IDisposable. If the type does not own any unmanaged resources, do not implement a finalizer on it.</Description>
+   <Resolution Name="DependsOnFix">Implement IDisposable on {0} because it creates members of the following IDisposable types: {1}. If {0} has previously shipped, adding new members that implement IDisposable to this type is considered a breaking change to existing consumers.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182172.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="14.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Category</String>
+  <String Key="Certainty">Certainty</String>
+  <String Key="CollapseAll">Collapse All</String>
+  <String Key="CheckId">Check Id</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">error(s)</String>
+  <String Key="ExpandAll">Expand All</String>
+  <String Key="Help">Help</String>
+  <String Key="Line">Line</String>
+  <String Key="Messages">message(s)</String>
+  <String Key="LocationNotStoredInPdb">[Location not stored in Pdb]</String>
+  <String Key="Project">Project</String>
+  <String Key="Resolution">Resolution</String>
+  <String Key="Rule">Rule</String>
+  <String Key="RuleFile">Rule File</String>
+  <String Key="RuleDescription">Rule Description</String>
+  <String Key="Source">Source</String>
+  <String Key="Status">Status</String>
+  <String Key="Target">Target</String>
+  <String Key="Warning">Warning</String>
+  <String Key="Warnings">warning(s)</String>
+  <String Key="ReportTitle">Code Analysis Report</String>
+ </Localized>
+</FxCopReport>

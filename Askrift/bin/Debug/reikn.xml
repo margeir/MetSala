@@ -1,0 +1,35 @@
+﻿<Reikningar>
+  <Reikningur>
+    <Dags>29.6.2017</Dags>
+    <Nafn>Félag Eldri Borgara í Hafnarfirði</Nafn>
+    <Vidskm>4604760899</Vidskm>
+    <Kt>4604760899</Kt>
+    <Heimili>Flatahraun 3</Heimili>
+    <Postnr>220</Postnr>
+    <Postst>Hafnarfjörður</Postst>
+    <Texti1 />
+    <Texti2 />
+    <Numer>100001</Numer>
+    <Item>2</Item>
+    <Lysing>Vörur</Lysing>
+    <Magn>-12</Magn>
+    <Lafsl>0</Lafsl>
+    <Verd>-5.820</Verd>
+    <Lsamt>-69.840</Lsamt>
+    <VFl>S1</VFl>
+    <Item>2</Item>
+    <Lysing>Vefþjónusta</Lysing>
+    <Magn>-12</Magn>
+    <Lafsl>0</Lafsl>
+    <Verd>-5.820</Verd>
+    <Lsamt>-69.840</Lsamt>
+    <VFl>S1</VFl>
+    <solumadur>Sölumaður</solumadur>
+    <Samtals>-86.602</Samtals>
+    <Vsk1>-0</Vsk1>
+    <Vsk2>-16.762</Vsk2>
+    <Sanvsk>-69.840</Sanvsk>
+    <Safsl>0</Safsl>
+    <Frumrit>Frumrit</Frumrit>
+  </Reikningur>
+</Reikningar>

@@ -1,0 +1,51 @@
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\bin\Release\Askrift.exe.config
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\bin\Release\Askrift.exe
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\bin\Release\Askrift.pdb
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\bin\Release\MySql.Data.dll
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.endurp.resources
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.samningar.resources
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.vidskm.resources
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.reikningar.resources
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.vorur.resources
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.innskraning.resources
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.hr_dags.resources
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.MetSala.resources
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.Properties.Resources.resources
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.csproj.GenerateResource.Cache
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.exe
+C:\Documents and Settings\margeir\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.pdb
+C:\Users\ADAPT\Documents\Visual Studio 2008\Projects\Askrift\Askrift\bin\Release\Askrift.exe.config
+C:\Users\ADAPT\Documents\Visual Studio 2008\Projects\Askrift\Askrift\bin\Release\Askrift.exe
+C:\Users\ADAPT\Documents\Visual Studio 2008\Projects\Askrift\Askrift\bin\Release\Askrift.pdb
+C:\Users\ADAPT\Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ADAPT\Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.endurp.resources
+C:\Users\ADAPT\Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.samningar.resources
+C:\Users\ADAPT\Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.vidskm.resources
+C:\Users\ADAPT\Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.reikningar.resources
+C:\Users\ADAPT\Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.vorur.resources
+C:\Users\ADAPT\Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.innskraning.resources
+C:\Users\ADAPT\Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.hr_dags.resources
+C:\Users\ADAPT\Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.MetSala.resources
+C:\Users\ADAPT\Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.Properties.Resources.resources
+C:\Users\ADAPT\Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.csproj.GenerateResource.Cache
+C:\Users\ADAPT\Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.exe
+C:\Users\ADAPT\Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.endurp.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.samningar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.vidskm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.reikningar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.vorur.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.innskraning.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.hr_dags.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.MetSala.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.g_peningar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\Askrift.lenalisti.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\MetSala.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\bin\Release\MetSala.exe.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\bin\Release\MetSala.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\bin\Release\MetSala.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\MetSala.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Askrift\Askrift\obj\Release\MetSala.pdb

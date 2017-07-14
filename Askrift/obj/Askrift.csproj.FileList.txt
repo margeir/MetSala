@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Askrift.Properties.Resources.resources
+obj\Debug\Askrift.csproj.GenerateResource.Cache
+bin\Debug\Askrift.exe
+bin\Debug\Askrift.pdb
+obj\Debug\Askrift.exe
+obj\Debug\Askrift.pdb
+bin\Debug\MySql.Data.dll
+obj\Debug\Askrift.Form2.resources
+obj\Debug\Askrift.vskm.resources
